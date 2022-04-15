@@ -1,0 +1,28 @@
+id: PEF97022F
+initial_creation_type: input
+source_metadata:
+  title: Fundamentals of Turning the Wheel of Dharma
+  author: གསེར་མདོག་པཎ་ཆེན་ཤཱཀྱ་མཆོག་ལྡན།
+  description: 'Digital version 4.0 {Tibetan}; master xml (completed: 2012-09); linebreaks
+    encoded, revision in process, no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Volker Caumanns (vc), Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/132
+  bases:
+    889b:
+      title: Fundamentals of Turning the Wheel of Dharma
+      order: 1
+      base_file: 889b.txt
+created_at: '2022-04-15T18:59:37.351293'
+last_modified_at: '2022-04-15T18:59:37.351300'
+quality: null
